@@ -1,0 +1,16 @@
+C:\Users\brkelle\Personal\Github\Practice-Projects\Practice-Projects\Practice-Projects\bin\Debug\net5.0\Practice-Projects.exe
+C:\Users\brkelle\Personal\Github\Practice-Projects\Practice-Projects\Practice-Projects\bin\Debug\net5.0\Practice-Projects.deps.json
+C:\Users\brkelle\Personal\Github\Practice-Projects\Practice-Projects\Practice-Projects\bin\Debug\net5.0\Practice-Projects.runtimeconfig.json
+C:\Users\brkelle\Personal\Github\Practice-Projects\Practice-Projects\Practice-Projects\bin\Debug\net5.0\Practice-Projects.runtimeconfig.dev.json
+C:\Users\brkelle\Personal\Github\Practice-Projects\Practice-Projects\Practice-Projects\bin\Debug\net5.0\Practice-Projects.dll
+C:\Users\brkelle\Personal\Github\Practice-Projects\Practice-Projects\Practice-Projects\bin\Debug\net5.0\ref\Practice-Projects.dll
+C:\Users\brkelle\Personal\Github\Practice-Projects\Practice-Projects\Practice-Projects\bin\Debug\net5.0\Practice-Projects.pdb
+C:\Users\brkelle\Personal\Github\Practice-Projects\Practice-Projects\Practice-Projects\obj\Debug\net5.0\Practice-Projects.csprojAssemblyReference.cache
+C:\Users\brkelle\Personal\Github\Practice-Projects\Practice-Projects\Practice-Projects\obj\Debug\net5.0\Practice-Projects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brkelle\Personal\Github\Practice-Projects\Practice-Projects\Practice-Projects\obj\Debug\net5.0\Practice-Projects.AssemblyInfoInputs.cache
+C:\Users\brkelle\Personal\Github\Practice-Projects\Practice-Projects\Practice-Projects\obj\Debug\net5.0\Practice-Projects.AssemblyInfo.cs
+C:\Users\brkelle\Personal\Github\Practice-Projects\Practice-Projects\Practice-Projects\obj\Debug\net5.0\Practice-Projects.csproj.CoreCompileInputs.cache
+C:\Users\brkelle\Personal\Github\Practice-Projects\Practice-Projects\Practice-Projects\obj\Debug\net5.0\Practice-Projects.dll
+C:\Users\brkelle\Personal\Github\Practice-Projects\Practice-Projects\Practice-Projects\obj\Debug\net5.0\ref\Practice-Projects.dll
+C:\Users\brkelle\Personal\Github\Practice-Projects\Practice-Projects\Practice-Projects\obj\Debug\net5.0\Practice-Projects.pdb
+C:\Users\brkelle\Personal\Github\Practice-Projects\Practice-Projects\Practice-Projects\obj\Debug\net5.0\Practice-Projects.genruntimeconfig.cache

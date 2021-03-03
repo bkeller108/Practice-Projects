@@ -1,0 +1,16 @@
+C:\Users\brkelle\Personal\Github\Practice-Projects\MaxTwoNumbers\bin\Debug\net5.0\MaxTwoNumbers.exe
+C:\Users\brkelle\Personal\Github\Practice-Projects\MaxTwoNumbers\bin\Debug\net5.0\MaxTwoNumbers.deps.json
+C:\Users\brkelle\Personal\Github\Practice-Projects\MaxTwoNumbers\bin\Debug\net5.0\MaxTwoNumbers.runtimeconfig.json
+C:\Users\brkelle\Personal\Github\Practice-Projects\MaxTwoNumbers\bin\Debug\net5.0\MaxTwoNumbers.runtimeconfig.dev.json
+C:\Users\brkelle\Personal\Github\Practice-Projects\MaxTwoNumbers\bin\Debug\net5.0\MaxTwoNumbers.dll
+C:\Users\brkelle\Personal\Github\Practice-Projects\MaxTwoNumbers\bin\Debug\net5.0\ref\MaxTwoNumbers.dll
+C:\Users\brkelle\Personal\Github\Practice-Projects\MaxTwoNumbers\bin\Debug\net5.0\MaxTwoNumbers.pdb
+C:\Users\brkelle\Personal\Github\Practice-Projects\MaxTwoNumbers\obj\Debug\net5.0\MaxTwoNumbers.csprojAssemblyReference.cache
+C:\Users\brkelle\Personal\Github\Practice-Projects\MaxTwoNumbers\obj\Debug\net5.0\MaxTwoNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brkelle\Personal\Github\Practice-Projects\MaxTwoNumbers\obj\Debug\net5.0\MaxTwoNumbers.AssemblyInfoInputs.cache
+C:\Users\brkelle\Personal\Github\Practice-Projects\MaxTwoNumbers\obj\Debug\net5.0\MaxTwoNumbers.AssemblyInfo.cs
+C:\Users\brkelle\Personal\Github\Practice-Projects\MaxTwoNumbers\obj\Debug\net5.0\MaxTwoNumbers.csproj.CoreCompileInputs.cache
+C:\Users\brkelle\Personal\Github\Practice-Projects\MaxTwoNumbers\obj\Debug\net5.0\MaxTwoNumbers.dll
+C:\Users\brkelle\Personal\Github\Practice-Projects\MaxTwoNumbers\obj\Debug\net5.0\ref\MaxTwoNumbers.dll
+C:\Users\brkelle\Personal\Github\Practice-Projects\MaxTwoNumbers\obj\Debug\net5.0\MaxTwoNumbers.pdb
+C:\Users\brkelle\Personal\Github\Practice-Projects\MaxTwoNumbers\obj\Debug\net5.0\MaxTwoNumbers.genruntimeconfig.cache

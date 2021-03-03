@@ -1,0 +1,15 @@
+C:\Users\brkelle\Personal\Github\Practice-Projects\LandscapePotraitImage\bin\Debug\net5.0\LandscapePotraitImage.exe
+C:\Users\brkelle\Personal\Github\Practice-Projects\LandscapePotraitImage\bin\Debug\net5.0\LandscapePotraitImage.deps.json
+C:\Users\brkelle\Personal\Github\Practice-Projects\LandscapePotraitImage\bin\Debug\net5.0\LandscapePotraitImage.runtimeconfig.json
+C:\Users\brkelle\Personal\Github\Practice-Projects\LandscapePotraitImage\bin\Debug\net5.0\LandscapePotraitImage.runtimeconfig.dev.json
+C:\Users\brkelle\Personal\Github\Practice-Projects\LandscapePotraitImage\bin\Debug\net5.0\LandscapePotraitImage.dll
+C:\Users\brkelle\Personal\Github\Practice-Projects\LandscapePotraitImage\bin\Debug\net5.0\ref\LandscapePotraitImage.dll
+C:\Users\brkelle\Personal\Github\Practice-Projects\LandscapePotraitImage\bin\Debug\net5.0\LandscapePotraitImage.pdb
+C:\Users\brkelle\Personal\Github\Practice-Projects\LandscapePotraitImage\obj\Debug\net5.0\LandscapePotraitImage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brkelle\Personal\Github\Practice-Projects\LandscapePotraitImage\obj\Debug\net5.0\LandscapePotraitImage.AssemblyInfoInputs.cache
+C:\Users\brkelle\Personal\Github\Practice-Projects\LandscapePotraitImage\obj\Debug\net5.0\LandscapePotraitImage.AssemblyInfo.cs
+C:\Users\brkelle\Personal\Github\Practice-Projects\LandscapePotraitImage\obj\Debug\net5.0\LandscapePotraitImage.csproj.CoreCompileInputs.cache
+C:\Users\brkelle\Personal\Github\Practice-Projects\LandscapePotraitImage\obj\Debug\net5.0\LandscapePotraitImage.dll
+C:\Users\brkelle\Personal\Github\Practice-Projects\LandscapePotraitImage\obj\Debug\net5.0\ref\LandscapePotraitImage.dll
+C:\Users\brkelle\Personal\Github\Practice-Projects\LandscapePotraitImage\obj\Debug\net5.0\LandscapePotraitImage.pdb
+C:\Users\brkelle\Personal\Github\Practice-Projects\LandscapePotraitImage\obj\Debug\net5.0\LandscapePotraitImage.genruntimeconfig.cache
